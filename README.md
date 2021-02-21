@@ -12,4 +12,4 @@ Here's a list of quick trivia about myself:
 - ⚡ Fun fact: I started Coding when I was 9, making me a coder for Five years and counting.
 
 # Miscellaneous Stuffs:
-![Electro's GitHub stats](https://github-readme-stats.vercel.app/api?username=electroflameofficial&show_icons=true&theme=dark)
+![Electro's GitHub stats](https://github-readme-stats.vercel.app/api?username=electroflameofficial&show_icons=true&theme=omni)
