@@ -12,4 +12,10 @@ Here's a list of quick trivia about myself:
 - ⚡ Fun fact: I started Coding when I was 9, making me a coder for Five years and counting.
 
 # Miscellaneous Stuffs:
+GDSP Website Repo:
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin?username=gd-star-pp&repo=website&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=30,e96443,904e95)
+
+My Github stats:
+
 ![Electro's GitHub stats](https://github-readme-stats.vercel.app/api?username=electroflameofficial&show_icons=true&theme=omni)
