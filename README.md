@@ -14,7 +14,7 @@ Here's a list of quick trivia about myself:
 # Miscellaneous Stuffs:
 GDSP Website Repo:
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin?username=gd-star-pp&repo=website&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=30,e96443,904e95)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin?username=lotus-gd&repo=lotus-web&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=30,e96443,904e95)
 
 My Github stats:
 
