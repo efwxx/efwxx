@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Electro, your Typical Fourteen Year Old that goes to A high school, loves playing geometry dash, and makes dumb stuff with code in their free time.
+I'm Electro, your Typical Fifteen Year Old that goes to A high school, loves playing geometry dash, and makes dumb stuff with code in their free time.
 
 Here's a list of quick trivia about myself:
 - 🔭 I’m currently working on [Project Lotus](https://github.com/lotus-gd), an overall stats leaderboard for geometry dash, with me being one of the Front-End devs for it.
