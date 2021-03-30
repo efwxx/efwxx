@@ -9,7 +9,7 @@ Here's a list of quick trivia about myself:
 - 💬 Ask me about Anything, literally. My contact info is right under this.
 - 📫 How to reach me: Discord: Electro#8628, [Twitter](https://twitter.com/poweredbyelectr).
 - 😄 Pronouns: Any pronouns work actually.
-- ⚡ Fun fact: I started Coding when I was 9, making me a coder for Five years and counting.
+- ⚡ Fun fact: I started Coding when I was 9, making me a coder for six years and counting.
 
 # Miscellaneous Stuffs:
 Project Lotus Website Repo:
