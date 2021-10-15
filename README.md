@@ -16,7 +16,9 @@ Here's a list of quick trivia about myself:
 My Discord Server:
 <br>
 <br>
-![Discord Banner 4](https://discordapp.com/api/guilds/861241327411527680/widget.png?style=banner2)
+![Discord Banner 4](https://discordapp.com/api/guilds/861241327411527680/widget.png?style=shield)
+<br>
+### [Join here](https://discord.gg/fCDf7ZF8d6)
 
 
 Project Lotus Website Repo:
