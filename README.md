@@ -13,14 +13,6 @@ Here's a list of quick trivia about myself:
 
 # Miscellaneous Stuffs:
 
-My Discord Server:
-<br>
-<br>
-![Discord Banner 4](https://discordapp.com/api/guilds/861241327411527680/widget.png?style=shield)
-<br>
-### [Join here](https://discord.gg/fCDf7ZF8d6)
-
-
 Project Lotus Website Repo:
 
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin?username=lotus-gd&repo=lotus-web&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=30,e96443,904e95)
