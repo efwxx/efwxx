@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Electro, your Typical Fifteen Year Old that goes to A high school, loves playing geometry dash, and makes dumb stuff with code in their free time.
+I'm Electro, your Typical Fifteen Year Old that goes to A university, loves making dumb stuff with code in their free time, and REALLY enjoys games. I also go by asvimdv and Rebecca if you know me well enough. you can find me on discord (Electro#8628) and [twitter](https://twitter.com/poweredbyelectr).
 <!--
 Here's a list of quick trivia about myself:
 - 🔭 I’m currently working on [Project Lotus](https://github.com/lotus-gd), an overall stats leaderboard for geometry dash, with me being one of the Front-End devs for it.
@@ -15,4 +15,4 @@ Here's a list of quick trivia about myself:
 
 My Github stats:
 
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=electroflameofficial&count_private=true&show_icons=true&theme=react" />
+<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=electroflameofficial&count_private=true&show_icons=true&theme=react" />
