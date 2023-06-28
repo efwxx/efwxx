@@ -15,4 +15,4 @@ Here's a list of quick trivia about myself:
 
 My Github stats:
 
-<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=electroflameofficial&count_private=true&show_icons=true&theme=react" />
+<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=efwxx&count_private=true&show_icons=true&theme=react" />
