@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Electro, your Typical lad that enjoys coding, loves making dumb stuff with code in their free time, and REALLY enjoys games. I also go by asvimdv sometimes. you can find me on discord (Electro#8628) and [twitter](https://twitter.com/poweredbyelectr).
+I'm Electro, your Typical lad that enjoys coding, loves making dumb stuff with code in their free time, and REALLY enjoys games. I also go by asvimdv sometimes. you can find me on discord and [twitter](https://twitter.com/poweredbyelectr).
 <!--
 Here's a list of quick trivia about myself:
 - 🔭 I’m currently working on [Project Lotus](https://github.com/lotus-gd), an overall stats leaderboard for geometry dash, with me being one of the Front-End devs for it.
