@@ -11,10 +11,11 @@ Here's a list of quick trivia about myself:
 - 😄 Pronouns: Any pronouns work actually.
 - ⚡ Fun fact: I started Coding when I was 9, making me a coder for six years and counting.
 -->
+<!--
 # Miscellaneous Stuffs:
 
 My Github stats:
 
-<!--
+
 <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=efwxx&count_private=true&show_icons=true&theme=react" />
 -->
